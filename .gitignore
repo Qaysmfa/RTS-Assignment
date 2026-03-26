@@ -1,0 +1,7 @@
+# Rust build outputs
+target/
+**/target/
+
+# IDE / local env
+.vscode/
+.venv/
